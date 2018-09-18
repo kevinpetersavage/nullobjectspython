@@ -1,6 +1,7 @@
 from unittest import TestCase
 
 from number_null_objects_example import product, sum
+from optional import optional_of_nullable, optional_of, empty
 
 
 class NumbersNullObjectsTest(TestCase):
